@@ -10,13 +10,21 @@ The notebook `manim_animations.ipynb` includes several animations created using 
 
 Below are the videos generated from the notebook:
 
-### Animation 1: [ST5_YC_36](#)
-- **Description**: An animation illustrating various mathematical transformations and equations.
-- **Video**: [[Animation 1](videos/ST5_YC_36.mp4)](https://gemoo.com/tools/upload-video/share/691128755314626560?codeId=PakYV8yWzJaJZ&card=691128744929529856&origin=videolinkgenerator)
-
-### Animation 2: [ST6_YC_14](#)
+### Animation 1: [ST6_YC_14](#)
 - **Description**: An animation showing data visualization and linear regression analysis.
-- **Video**:  [[Animation 2](videos/ST6_YC_14.mp4)](https://gemoo.com/tools/upload-video/share/691137101887266816?codeId=Ml6Bq3Ep4pzeo&card=691137095037968384&origin=videolinkgenerator)
+- **Video**:  
+
+https://github.com/user-attachments/assets/b2e6a255-8991-44e8-96a5-0cca941adae2
+
+### Animation 2: [ST5_YC_36](#)
+- **Description**: An animation illustrating various mathematical transformations and equations.
+- **Video**:
+
+https://github.com/user-attachments/assets/93f7de71-01fb-46b0-aaf1-d588eae22b88
+
+
+
+
 
 
 
