@@ -12,7 +12,7 @@ Below are the videos generated from the notebook:
 
 ### Animation 1: [ST5_YC_36](#)
 - **Description**: An animation illustrating various mathematical transformations and equations.
-- **Video**: [Animation 1](videos/STC5_YC_36.mp4)
+- **Video**: [Animation 1](videos/ST5_YC_36.mp4)
 
 ### Animation 2: [ST6_YC_14](#)
 - **Description**: An animation showing data visualization and linear regression analysis.
